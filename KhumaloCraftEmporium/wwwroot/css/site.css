@@ -1,0 +1,71 @@
+
+ /* Change color of h1 heading to be  slightly mire subtle and lighter color that doez no pierce the eyes*/
+ h1 {
+  text-align: center; 
+  margin-top: 50px; 
+  color:rgba(22, 21, 21, 0.897)
+} 
+
+h4 {
+  text-align: center; 
+  margin-top: 50px; 
+  color:rgba(43, 151, 70, 0.897)
+} 
+
+
+
+.image-text-container {
+  display: flex; 
+  align-items: center; 
+  
+}
+
+.image-text-container img {
+  margin-right: 10px; /
+}
+
+/* set content within horizontal container to be horizontally alligned and place padding below it*/
+/* Horizontally alligned so that I have more space to fit images inside home page*/
+.horizontal-container {
+  display: inline-block;
+  margin: 0 10px; 
+  text-align: center; 
+  margin-bottom: 20px;
+}
+
+.horizontal-container img {
+  height: 200px; 
+  width: 200px;
+}
+
+
+html {
+  font-size: 14px;
+  color: #6c757d;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+    color: #6c757d;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+  color: #6c757d;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+  color: #6c757d;
+}
+
+
+body {
+  margin-bottom: 60px;
+  color: #6c757d; 
+  background-color:rgba(239, 255, 247, 0.952);
+}
+

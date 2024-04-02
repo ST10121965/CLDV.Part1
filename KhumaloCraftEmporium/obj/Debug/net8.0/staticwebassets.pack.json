@@ -1,0 +1,317 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\KhumaloCraftEmporium.bundle.scp.css",
+      "PackagePath": "staticwebassets\\KhumaloCraftEmporium.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesContact\\Phone.jpg",
+      "PackagePath": "staticwebassets\\ImagesContact\\Phone.jpg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesContact\\app.jpg",
+      "PackagePath": "staticwebassets\\ImagesContact\\app.jpg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesContact\\number.jpg",
+      "PackagePath": "staticwebassets\\ImagesContact\\number.jpg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesContact\\paint.jpg",
+      "PackagePath": "staticwebassets\\ImagesContact\\paint.jpg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesContact\\smile.jpg",
+      "PackagePath": "staticwebassets\\ImagesContact\\smile.jpg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesHome\\artisan.jpeg",
+      "PackagePath": "staticwebassets\\ImagesHome\\artisan.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesHome\\collection.jpg",
+      "PackagePath": "staticwebassets\\ImagesHome\\collection.jpg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesHome\\pottery.jpg",
+      "PackagePath": "staticwebassets\\ImagesHome\\pottery.jpg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesHome\\spoonCarve.jpg",
+      "PackagePath": "staticwebassets\\ImagesHome\\spoonCarve.jpg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesWork\\ceramicMug.jpeg",
+      "PackagePath": "staticwebassets\\ImagesWork\\ceramicMug.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesWork\\juteBag.jpeg",
+      "PackagePath": "staticwebassets\\ImagesWork\\juteBag.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesWork\\kitchenSpoon.jpeg",
+      "PackagePath": "staticwebassets\\ImagesWork\\kitchenSpoon.jpeg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\ImagesWork\\palletDesk.jpg",
+      "PackagePath": "staticwebassets\\ImagesWork\\palletDesk.jpg"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "c:\\Users\\LUKE DAVIS\\Documents\\Code\\Visual Studio Code 2024\\KhumaloCraftProducts\\KhumaloCraftEmporium\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.KhumaloCraftEmporium.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.KhumaloCraftEmporium.props",
+      "PackagePath": "build\\KhumaloCraftEmporium.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.KhumaloCraftEmporium.props",
+      "PackagePath": "buildMultiTargeting\\KhumaloCraftEmporium.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.KhumaloCraftEmporium.props",
+      "PackagePath": "buildTransitive\\KhumaloCraftEmporium.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

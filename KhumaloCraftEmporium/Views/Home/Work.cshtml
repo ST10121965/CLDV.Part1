@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - KhumaloCraftEmporium</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/KhumaloCraftEmporium.styles.css" asp-append-version="true" />
+</head>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h3>My Work   </h3>
+            <br>
+   <p>          We at KhumaloCraft Emporium have been working towards many important goals and milestones.
+          <br>  We shared the creations of our most skilled artisan, to a wide audience around the world.
+          <br>  We have also seeked out the most useful and highly rated items and had artisans make them
+          <br>  make these for customers. Through our collaberation with cloud computing platforms, we have
+          <br>  made progress towards expanding our reach, aiming towards being accessible around the world.</p>
+    <br>
+         
+               
+</div>
+
+ <h3>Please explore our listings of craftworks:</h3>
+ <br>
+
+<div class="container">
+    <a href="/Home/Mug">
+        <div class="image-text-container">
+            <img src="/ImagesWork/ceramicMug.jpeg" alt="Ceramic Mug">
+            <h4>Cute ceramic mug - R80</h4>
+        </div>
+    </a>
+</div>
+    
+    <div class="container">
+    <a href="/Home/Bag">
+        <div class="image-text-container">
+            <img src="/ImagesWork/juteBag.jpeg" alt="Jute Bag">
+            <h4>Multi-purpose jute bag - R300</h4>
+        </div>
+    </a>
+</div>
+
+<div class="container">
+    <a href="/Home/Spoon">
+        <div class="image-text-container">
+            <img src="/ImagesWork/kitchenSpoon.jpeg" alt="Kitchen Spoon">
+            <h4> 3 Wooden Cooking Spoons Bundle - R250</h4>
+        </div>
+    </a>
+</div>
+
+<div class="container">
+    <a href="/Home/Desk">
+        <div class="image-text-container">
+            <img src="/ImagesWork/palletDesk.jpg" alt="Pallet Desk">
+            <h4>Pallet desk, for studies</h4>
+        </div>
+    </a>
+</div>
+
+</div>
+
+ <footer>
+    <div class="container">
+     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                        <a class="nav-link text-dark">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="About">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contact">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Work">My Work</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        </div>
+</footer>

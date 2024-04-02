@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - KhumaloCraftEmporium</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/KhumaloCraftEmporium.styles.css" asp-append-version="true" />
+</head>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h3>Home</h3>
+            <br>
+
+             <p>Welcome Home. This is your destination for unique creations and handcrafted items that are gaining traction.   
+          <br>  We are a group that prides ourself in raising awareness for high quality local artisans. We are continuing to 
+          <br>  foster growth in the artisan community, as well as deliver exceptional products and services to our web users
+          <br>  </p>                
+</div>
+
+<br>
+<br>
+
+<!-- create container that will hold horizontally alligned images of happy moments with artisans -->
+<div class="text-center">
+
+
+    <div class="horizontal-container">
+                <img src="/ImagesHome/pottery.jpg" alt="Pottery artisan">
+        
+    </div>
+    
+    <div class="horizontal-container">
+                <img src="/ImagesHome/collection.jpg" alt="Collection of craftworks">
+        
+    </div>
+
+    <div class="horizontal-container">
+                <img src="/ImagesHome/artisan.jpeg" alt="Artisan building something">
+        
+    </div>
+    
+    <div class="horizontal-container">
+                <img src="/ImagesHome/spoonCarve.jpg" alt="Man carving wooden spoon">
+        
+    </div>
+<br>
+
+</div>
+
+<!-- This container will hold horizontally alligned clickable image links of products that are on display -->
+<div class="text-center">
+
+    <div class="horizontal-container">
+        <a href="/Home/Spoon">
+        <img src="/ImagesWork/kitchenSpoon.jpeg" alt="Kitchen Spoon">
+    </a>
+    </div>
+    
+    <div class="horizontal-container">
+        <a href="/Home/Mug">
+        <img src="/ImagesWork/ceramicMug.jpeg" alt="Ceramic Mug">
+    </a>
+    </div>
+
+    <div class="horizontal-container">
+        <a href="/Home/Bag">
+        <img src="/ImagesWork/juteBag.jpeg" alt="Jute Bag">
+    </a>
+    </div>
+
+    <div class="horizontal-container">
+      <a href="/Home/Desk">
+        <img src="/ImagesWork/palletDesk.jpg" alt="Pallet Desk">
+    </a>
+    </div>
+
+</div>
+
+<br>
+<br>
+
+
+<footer>
+     <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                        <a class="nav-link text-dark">
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="About">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Contact">Contact Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Work">My Work</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+</footer>
